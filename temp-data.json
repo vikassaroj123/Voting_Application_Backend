@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Rajesh Kumar",
+        "party": "Indian National Congress",
+        "age": 45,
+        "gender": "Male",
+        "dob": "1979-08-25",
+        "position": "Member of Legislative Assembly",
+        "manifesto": "To improve healthcare facilities in rural areas and promote education for underprivileged children.",
+        "imageUrl": "https://example.com/rajesh_kumar.jpg",
+        "constituency": "New Delhi",
+        "partySymbol": "https://example.com/inc_symbol.png",
+        "criminalRecords": false,
+        "education": {
+            "degree": "Bachelor of Science",
+            "institution": "Delhi University",
+            "year": 2000
+        },
+        "profession": "Social Worker",
+        "previousExperience": "Served as a social worker for 10 years.",
+        "socialMediaLinks": [
+            {
+                "platform": "Twitter",
+                "link": "https://twitter.com/rajeshkumar"
+            },
+            {
+                "platform": "Facebook",
+                "link": "https://facebook.com/rajeshkumar"
+            }
+        ],
+        "contactDetails": {
+            "address": "456, Main Street, New Delhi",
+            "phone": "+91 9876543210",
+            "email": "rajesh.kumar@example.com"
+        },
+        "assets": {
+            "movable": 5000000,
+            "immovable": 10000000
+        },
+        "liabilities": 2000000,
+        "achievements": [
+            "Recipient of National Award for Social Service (2015)",
+            "Established a school for underprivileged children (2017)"
+        ],
+        "languagesKnown": [
+            "Hindi",
+            "English"
+        ],
+        "hobbies": [
+            "Reading",
+            "Playing cricket"
+        ],
+        "familyMembers": [
+            {
+                "name": "Sunita Kumar",
+                "relation": "Spouse",
+                "age": 42,
+                "occupation": "Teacher"
+            },
+            {
+                "name": "Amit Kumar",
+                "relation": "Son",
+                "age": 20,
+                "occupation": "Student"
+            }
+        ],
+        "isIncumbent": false,
+        "votes": [],
+        "voteCount": 0
+    },
+    {
+        "name": "Priya Singh",
+        "party": "Bharatiya Janata Party",
+        "age": 38,
+        "gender": "Female",
+        "dob": "1986-04-10",
+        "position": "Member of Parliament",
+        "manifesto": "Focused on infrastructure development and women empowerment.",
+        "imageUrl": "https://example.com/priya_singh.jpg",
+        "constituency": "Mumbai North",
+        "partySymbol": "https://example.com/bjp_symbol.png",
+        "criminalRecords": false,
+        "education": {
+            "degree": "Master of Business Administration",
+            "institution": "Indian Institute of Management",
+            "year": 2010
+        },
+        "profession": "Businesswoman",
+        "previousExperience": "Served as a councilor for 1 term.",
+        "socialMediaLinks": [
+            {
+                "platform": "Twitter",
+                "link": "https://twitter.com/priyasingh"
+            },
+            {
+                "platform": "Facebook",
+                "link": "https://facebook.com/priyasingh"
+            }
+        ],
+        "contactDetails": {
+            "address": "789, Park Avenue, Mumbai",
+            "phone": "+91 9876543210",
+            "email": "priya.singh@example.com"
+        },
+        "assets": {
+            "movable": 8000000,
+            "immovable": 15000000
+        },
+        "liabilities": 3000000,
+        "achievements": [
+            "Established an NGO for women empowerment (2016)",
+            "Recipient of Business Excellence Award (2018)"
+        ],
+        "languagesKnown": [
+            "Hindi",
+            "English",
+            "Marathi"
+        ],
+        "hobbies": [
+            "Travelling",
+            "Photography"
+        ],
+        "familyMembers": [
+            {
+                "name": "Amit Singh",
+                "relation": "Spouse",
+                "age": 40,
+                "occupation": "Entrepreneur"
+            },
+            {
+                "name": "Ria Singh",
+                "relation": "Daughter",
+                "age": 10,
+                "occupation": "Student"
+            }
+        ],
+        "isIncumbent": false,
+        "votes": [],
+        "voteCount": 0
+    }
+]

@@ -1,0 +1,45 @@
+Voting application
+WHAT ??
+
+Modles?
+Routes?
+
+Voting application funtionality
+
+1. User sign in / sign up
+2. See the list of candidate
+3. Vote one of candidate, After voting, user can't vote again.
+4. there is a route which shows the list of candidate and their live vote counts sorted by their vote counts.
+5. User data must cotains their one unique goverment id proof named: adhar card number
+6. there should be one admin, who can only maintain the tale of candidate and can't able to vote at all
+7. User can change their password.
+8. User can login only with aadhar card number and password
+9. Admin can't vote at all.
+
+//Think by Me 
+1. Deadline and expiry for tie of voting.
+2. 
+
+------------------------------------------>
+
+Routes ->API Endpoints.
+
+User  Authentication:
+   /signup: POST - Create a new user account.
+   /login: POST - Log in to an existing account. [Adhar card number + password]
+
+Voting: 
+   /condidate : Get - Get the list of candidate sorted by their vote counts.
+   /vote/:candidateID: POST - Vote for a specific candidate.
+
+Vote Counts:
+   /vote/counts: GET - Get the list of candidate sorted by their vote counts.
+
+User Profile:
+  /Profile: GET - Get the user profile information.
+  /profile/password: PUT - Change the user's password.
+
+Admin Candidate Management:
+  /candidate: POST - Create a new candidate
+  /candidate/:candidateID: PUT - Update an existing candiadte.
+  /candiadte/:candiadateID: DELETE - Delete a candidate from the list.
