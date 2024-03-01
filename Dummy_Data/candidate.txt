@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Indian National Congress",
+        "party": "INC",
+        "age": 75,
+        "gender": "Male",
+        "dob": "1949-01-01",
+        "position": "Leader",
+        "manifesto": "Focusing on social justice and economic development.",
+        "imageUrl": "https://example.com/congress.jpg",
+        "constituency": "Delhi",
+        "partySymbol": "Hand",
+        "criminalRecords": false,
+        "education": {
+            "degree": "Bachelor of Arts",
+            "institution": "University XYZ",
+            "year": 1970
+        },
+        "profession": "Politician",
+        "previousExperience": "Served as Chief Minister for 10 years.",
+        "socialMediaLinks": [
+            {"platform": "Twitter", "link": "https://twitter.com/congress"},
+            {"platform": "Facebook", "link": "https://facebook.com/congress"}
+        ],
+        "contactDetails": {
+            "address": "123 ABC Street, Delhi",
+            "phone": "+91 9876543210",
+            "email": "congress@example.com"
+        },
+        "assets": {"movable": 500000, "immovable": 2000000},
+        "liabilities": 100000,
+        "achievements": ["National Service Award", "Education Excellence"],
+        "languagesKnown": ["English", "Hindi"],
+        "hobbies": ["Reading", "Gardening"],
+        "familyMembers": [
+            {"name": "John Doe", "relation": "Spouse", "age": 70, "occupation": "Retired"}
+        ],
+        "isIncumbent": true,
+        "votes": [],
+        "voteCount": 0
+    },
+]

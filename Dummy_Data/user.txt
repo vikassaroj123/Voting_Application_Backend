@@ -1,0 +1,32 @@
+//1. For voter role
+
+{
+    "name": "Ramesh Kumar",
+    "age": 30,
+    "email": "ramesh@example.com",
+    "username": "ramesh123",
+    "password": "password123",
+    "adharCardNumber": 123456789012,
+    "address": "123, ABC Street",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "role": "voter",
+    "isvoted": false
+}
+
+//For admin Role
+{
+    "name": "Sita Devi",
+    "age": 25,
+    "email": "sita@example.com",
+    "username": "sita456",
+    "password": "password456",
+    "adharCardNumber": 987654321098,
+    "address": "456, XYZ Street",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "role": "admin",   //Admin 
+    "isvoted": false
+  }

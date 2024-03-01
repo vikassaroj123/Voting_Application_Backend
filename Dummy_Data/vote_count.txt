@@ -1,0 +1,18 @@
+[
+    {
+        "party": "Bharatiya Janata Party",
+        "count": 1
+    },
+    {
+        "party": "Aam Aadmi Party",
+        "count": 1
+    },
+    {
+        "party": "Indian National Congress",
+        "count": 0
+    },
+    {
+        "party": "Bahujan Samaj Party",
+        "count": 0
+    }
+]
